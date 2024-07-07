@@ -66,6 +66,7 @@ Website : https://dashboard.pixelverse.xyz/
 
 2. Go to outlook inbox `(junk)` and find email from pixelverse 
 3. Open the email and add pixelverse OTP email to main inbox `(add / move to inbox)`
+4. Or open the pixelverse OTP email and click `it's not junk` 1x 
 
 #### Note : Make sure on the `first run` the otp email from pixelverse is not in your junk mail.
 
