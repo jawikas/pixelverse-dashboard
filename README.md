@@ -70,7 +70,8 @@ Website : https://dashboard.pixelverse.xyz/
 
 #### Note : Make sure on the `first run` the otp email from pixelverse is not in your junk mail.
 
-![image](https://github.com/jawikas/pixelverse-dashboard/assets/63976518/72d8e4ed-b1d3-4c3e-9733-0483945189d5)
+![image](https://github.com/jawikas/pixelverse-dashboard/assets/63976518/bd3f902e-b626-4291-b432-0059cece6708)
+
 
 ## Configuration
 
