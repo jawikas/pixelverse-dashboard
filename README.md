@@ -96,7 +96,8 @@ If you have any questions or suggestions, please feel free to contact at [ https
 
 ## Thanks to
 
-unknown source but thanks
+- https://github.com/Shyzg/pixelverse-referrals
+- https://github.com/monteksz/pixelverse
 
 ---
 
